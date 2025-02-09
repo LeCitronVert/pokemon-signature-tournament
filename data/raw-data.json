@@ -1,0 +1,2419 @@
+[
+    {
+        "pokemonName":"Beedrill",
+        "formName":null,
+        "smogonName":"Beedrill",
+        "move":"Twineedle"
+    },
+    {
+        "pokemonName":"Rattata",
+        "formName":null,
+        "smogonName":"Rattata",
+        "move":"Hyper Fang"
+    },
+    {
+        "pokemonName":"Rattata",
+        "formName":null,
+        "smogonName":"Rattata",
+        "move":"Super Fang"
+    },
+    {
+        "pokemonName":"Raticate",
+        "formName":null,
+        "smogonName":"Raticate",
+        "move":"Hyper Fang"
+    },
+    {
+        "pokemonName":"Raticate",
+        "formName":null,
+        "smogonName":"Raticate",
+        "move":"Super Fang"
+    },
+    {
+        "pokemonName":"Ekans",
+        "formName":null,
+        "smogonName":"Ekans",
+        "move":"Glare"
+    },
+    {
+        "pokemonName":"Arbok",
+        "formName":null,
+        "smogonName":"Arbok",
+        "move":"Glare"
+    },
+    {
+        "pokemonName":"Pikachu",
+        "formName":null,
+        "smogonName":"Pikachu",
+        "move":"Volt Tackle"
+    },
+    {
+        "pokemonName":"Pikachu",
+        "formName":"Partner",
+        "smogonName":"Pikachu-Starter",
+        "move":"Floaty Fall"
+    },
+    {
+        "pokemonName":"Pikachu",
+        "formName":"Partner",
+        "smogonName":"Pikachu-Starter",
+        "move":"Pika Papow"
+    },
+    {
+        "pokemonName":"Pikachu",
+        "formName":"Partner",
+        "smogonName":"Pikachu-Starter",
+        "move":"Splishy Splash"
+    },
+    {
+        "pokemonName":"Pikachu",
+        "formName":"Partner",
+        "smogonName":"Pikachu-Starter",
+        "move":"Zippy Zap"
+    },
+    {
+        "pokemonName":"Raichu",
+        "formName":null,
+        "smogonName":"Raichu",
+        "move":"Volt Tackle"
+    },
+    {
+        "pokemonName":"Raichu",
+        "formName":"Alolan",
+        "smogonName":"Raichu-Alola",
+        "move":"Volt Tackle"
+    },
+    {
+        "pokemonName":"Oddish",
+        "formName":null,
+        "smogonName":"Oddish",
+        "move":"Petal Dance"
+    },
+    {
+        "pokemonName":"Gloom",
+        "formName":null,
+        "smogonName":"Gloom",
+        "move":"Petal Dance"
+    },
+    {
+        "pokemonName":"Vileplume",
+        "formName":null,
+        "smogonName":"Vileplume",
+        "move":"Petal Dance"
+    },
+    {
+        "pokemonName":"Paras",
+        "formName":null,
+        "smogonName":"Paras",
+        "move":"Spore"
+    },
+    {
+        "pokemonName":"Parasect",
+        "formName":null,
+        "smogonName":"Parasect",
+        "move":"Spore"
+    },
+    {
+        "pokemonName":"Diglett",
+        "formName":null,
+        "smogonName":"Diglett",
+        "move":"Fissure"
+    },
+    {
+        "pokemonName":"Dugtrio",
+        "formName":null,
+        "smogonName":"Dugtrio",
+        "move":"Fissure"
+    },
+    {
+        "pokemonName":"Meowth",
+        "formName":null,
+        "smogonName":"Meowth",
+        "move":"Pay Day"
+    },
+    {
+        "pokemonName":"Meowth",
+        "formName":"Alolan",
+        "smogonName":"Meowth-Alola",
+        "move":"Pay Day"
+    },
+    {
+        "pokemonName":"Meowth",
+        "formName":"Galarian",
+        "smogonName":"Meowth-Galar",
+        "move":"Pay Day"
+    },
+    {
+        "pokemonName":"Persian",
+        "formName":null,
+        "smogonName":"Persian",
+        "move":"Pay Day"
+    },
+    {
+        "pokemonName":"Persian",
+        "formName":"Alolan",
+        "smogonName":"Persian-Alola",
+        "move":"Pay Day"
+    },
+    {
+        "pokemonName":"Primeape",
+        "formName":null,
+        "smogonName":"Primeape",
+        "move":"Rage Fist"
+    },
+    {
+        "pokemonName":"Arcanine",
+        "formName":null,
+        "smogonName":"Arcanine",
+        "move":"Extreme Speed"
+    },
+    {
+        "pokemonName":"Kadabra",
+        "formName":null,
+        "smogonName":"Kadabra",
+        "move":"Kinesis"
+    },
+    {
+        "pokemonName":"Kadabra",
+        "formName":null,
+        "smogonName":"Kadabra",
+        "move":"*"
+    },
+    {
+        "pokemonName":"Alakazam",
+        "formName":null,
+        "smogonName":"Alakazam",
+        "move":"Kinesis"
+    },
+    {
+        "pokemonName":"Alakazam",
+        "formName":null,
+        "smogonName":"Alakazam",
+        "move":"*"
+    },
+    {
+        "pokemonName":"Machop",
+        "formName":null,
+        "smogonName":"Machop",
+        "move":"Vital Throw"
+    },
+    {
+        "pokemonName":"Machoke",
+        "formName":null,
+        "smogonName":"Machoke",
+        "move":"Vital Throw"
+    },
+    {
+        "pokemonName":"Machamp",
+        "formName":null,
+        "smogonName":"Machamp",
+        "move":"Vital Throw"
+    },
+    {
+        "pokemonName":"Machamp",
+        "formName":null,
+        "smogonName":"Machamp",
+        "move":"Strength"
+    },
+    {
+        "pokemonName":"Slowbro",
+        "formName":"Galarian",
+        "smogonName":"Slowbro-Galar",
+        "move":"Shell Side Arm"
+    },
+    {
+        "pokemonName":"Shellder",
+        "formName":null,
+        "smogonName":"Shellder",
+        "move":"Clamp"
+    },
+    {
+        "pokemonName":"Cloyster",
+        "formName":null,
+        "smogonName":"Cloyster",
+        "move":"Clamp"
+    },
+    {
+        "pokemonName":"Gastly",
+        "formName":null,
+        "smogonName":"Gastly",
+        "move":"Night Shade"
+    },
+    {
+        "pokemonName":"Haunter",
+        "formName":null,
+        "smogonName":"Haunter",
+        "move":"Night Shade"
+    },
+    {
+        "pokemonName":"Gengar",
+        "formName":null,
+        "smogonName":"Gengar",
+        "move":"Night Shade"
+    },
+    {
+        "pokemonName":"Krabby",
+        "formName":null,
+        "smogonName":"Krabby",
+        "move":"Crabhammer"
+    },
+    {
+        "pokemonName":"Kingler",
+        "formName":null,
+        "smogonName":"Kingler",
+        "move":"Crabhammer"
+    },
+    {
+        "pokemonName":"Electrode",
+        "formName":"Hisuian",
+        "smogonName":"Electrode-Hisui",
+        "move":"Chloroblast"
+    },
+    {
+        "pokemonName":"Exeggcute",
+        "formName":null,
+        "smogonName":"Exeggcute",
+        "move":"Barrage"
+    },
+    {
+        "pokemonName":"Exeggutor",
+        "formName":null,
+        "smogonName":"Exeggutor",
+        "move":"Barrage"
+    },
+    {
+        "pokemonName":"Exeggutor",
+        "formName":"Alolan",
+        "smogonName":"Exeggutor-Alola",
+        "move":"Barrage"
+    },
+    {
+        "pokemonName":"Cubone",
+        "formName":null,
+        "smogonName":"Cubone",
+        "move":"Bone Club"
+    },
+    {
+        "pokemonName":"Cubone",
+        "formName":null,
+        "smogonName":"Cubone",
+        "move":"Bonemerang"
+    },
+    {
+        "pokemonName":"Cubone",
+        "formName":null,
+        "smogonName":"Cubone",
+        "move":"Bone Rush"
+    },
+    {
+        "pokemonName":"Marowak",
+        "formName":null,
+        "smogonName":"Marowak",
+        "move":"Bone Club"
+    },
+    {
+        "pokemonName":"Marowak",
+        "formName":null,
+        "smogonName":"Marowak",
+        "move":"Bonemerang"
+    },
+    {
+        "pokemonName":"Marowak",
+        "formName":null,
+        "smogonName":"Marowak",
+        "move":"Bone Rush"
+    },
+    {
+        "pokemonName":"Marowak",
+        "formName":"Alolan",
+        "smogonName":"Marowak-Alola",
+        "move":"Bone Club"
+    },
+    {
+        "pokemonName":"Marowak",
+        "formName":"Alolan",
+        "smogonName":"Marowak-Alola",
+        "move":"Bonemerang"
+    },
+    {
+        "pokemonName":"Marowak",
+        "formName":"Alolan",
+        "smogonName":"Marowak-Alola",
+        "move":"Shadow Bone"
+    },
+    {
+        "pokemonName":"Hitmonlee",
+        "formName":null,
+        "smogonName":"Hitmonlee",
+        "move":"Jump Kick"
+    },
+    {
+        "pokemonName":"Hitmonlee",
+        "formName":null,
+        "smogonName":"Hitmonlee",
+        "move":"Hi Jump Kick"
+    },
+    {
+        "pokemonName":"Hitmonlee",
+        "formName":null,
+        "smogonName":"Hitmonlee",
+        "move":"Rolling Kick"
+    },
+    {
+        "pokemonName":"Hitmonlee",
+        "formName":null,
+        "smogonName":"Hitmonlee",
+        "move":"Mega Kick"
+    },
+    {
+        "pokemonName":"Weezing",
+        "formName":"Galarian",
+        "smogonName":"Weezing-Galar",
+        "move":"Strange Steam"
+    },
+    {
+        "pokemonName":"Chansey",
+        "formName":null,
+        "smogonName":"Chansey",
+        "move":"Softboiled"
+    },
+    {
+        "pokemonName":"Chansey",
+        "formName":null,
+        "smogonName":"Chansey",
+        "move":"Soft-Boiled"
+    },
+    {
+        "pokemonName":"Kangaskhan",
+        "formName":null,
+        "smogonName":"Kangaskhan",
+        "move":"Dizzy Punch"
+    },
+    {
+        "pokemonName":"Goldeen",
+        "formName":null,
+        "smogonName":"Goldeen",
+        "move":"Waterfall"
+    },
+    {
+        "pokemonName":"Seaking",
+        "formName":null,
+        "smogonName":"Seaking",
+        "move":"Waterfall"
+    },
+    {
+        "pokemonName":"Staryu",
+        "formName":null,
+        "smogonName":"Staryu",
+        "move":"Camouflage"
+    },
+    {
+        "pokemonName":"Mr. Mime",
+        "formName":null,
+        "smogonName":"Mr. Mime",
+        "move":"Substitute"
+    },
+    {
+        "pokemonName":"Jynx",
+        "formName":null,
+        "smogonName":"Jynx",
+        "move":"Lovely Kiss"
+    },
+    {
+        "pokemonName":"Tauros",
+        "formName":null,
+        "smogonName":"Tauros",
+        "move":"Raging Bull"
+    },
+    {
+        "pokemonName":"Tauros",
+        "formName":"Paldean",
+        "smogonName":"Tauros-Paldea-Aqua",
+        "move":"Raging Bull"
+    },
+    {
+        "pokemonName":"Tauros",
+        "formName":"Paldean",
+        "smogonName":"Tauros-Paldea-Blaze",
+        "move":"Raging Bull"
+    },
+    {
+        "pokemonName":"Tauros",
+        "formName":"Paldean",
+        "smogonName":"Tauros-Paldea-Combat",
+        "move":"Raging Bull"
+    },
+    {
+        "pokemonName":"Magikarp",
+        "formName":null,
+        "smogonName":"Magikarp",
+        "move":"Splash"
+    },
+    {
+        "pokemonName":"Eevee",
+        "formName":"Partner",
+        "smogonName":"Eevee-Starter",
+        "move":"Baddy Bad"
+    },
+    {
+        "pokemonName":"Eevee",
+        "formName":"Partner",
+        "smogonName":"Eevee-Starter",
+        "move":"Bouncy Bubble"
+    },
+    {
+        "pokemonName":"Eevee",
+        "formName":"Partner",
+        "smogonName":"Eevee-Starter",
+        "move":"Buzzy Buzz"
+    },
+    {
+        "pokemonName":"Eevee",
+        "formName":"Partner",
+        "smogonName":"Eevee-Starter",
+        "move":"Freezy Frost"
+    },
+    {
+        "pokemonName":"Eevee",
+        "formName":"Partner",
+        "smogonName":"Eevee-Starter",
+        "move":"Glitzy Glow"
+    },
+    {
+        "pokemonName":"Eevee",
+        "formName":"Partner",
+        "smogonName":"Eevee-Starter",
+        "move":"Sappy Seed"
+    },
+    {
+        "pokemonName":"Eevee",
+        "formName":"Partner",
+        "smogonName":"Eevee-Starter",
+        "move":"Sizzly Slide"
+    },
+    {
+        "pokemonName":"Eevee",
+        "formName":"Partner",
+        "smogonName":"Eevee-Starter",
+        "move":"Sparkly Swirl"
+    },
+    {
+        "pokemonName":"Eevee",
+        "formName":"Partner",
+        "smogonName":"Eevee-Starter",
+        "move":"Veevee Volley"
+    },
+    {
+        "pokemonName":"Porygon",
+        "formName":null,
+        "smogonName":"Porygon",
+        "move":"Conversion"
+    },
+    {
+        "pokemonName":"Porygon",
+        "formName":null,
+        "smogonName":"Porygon",
+        "move":"Sharpen"
+    },
+    {
+        "pokemonName":"Porygon",
+        "formName":null,
+        "smogonName":"Porygon",
+        "move":"Conversion2"
+    },
+    {
+        "pokemonName":"Porygon",
+        "formName":null,
+        "smogonName":"Porygon",
+        "move":"Conversion 2"
+    },
+    {
+        "pokemonName":"Articuno",
+        "formName":"Galarian",
+        "smogonName":"Articuno-Galar",
+        "move":"Freezing Glare"
+    },
+    {
+        "pokemonName":"Zapdos",
+        "formName":"Galarian",
+        "smogonName":"Zapdos-Galar",
+        "move":"Thunderous Kick"
+    },
+    {
+        "pokemonName":"Moltres",
+        "formName":"Galarian",
+        "smogonName":"Moltres-Galar",
+        "move":"Fiery Wrath"
+    },
+    {
+        "pokemonName":"Mewtwo",
+        "formName":null,
+        "smogonName":"Mewtwo",
+        "move":"Psystrike"
+    },
+    {
+        "pokemonName":"Typhlosion",
+        "formName":"Hisuian",
+        "smogonName":"Typhlosion-Hisui",
+        "move":"Infernal Parade"
+    },
+    {
+        "pokemonName":"Spinarak",
+        "formName":null,
+        "smogonName":"Spinarak",
+        "move":"Spider Web"
+    },
+    {
+        "pokemonName":"Spinarak",
+        "formName":null,
+        "smogonName":"Spinarak",
+        "move":"Toxic Thread"
+    },
+    {
+        "pokemonName":"Ariados",
+        "formName":null,
+        "smogonName":"Ariados",
+        "move":"Spider Web"
+    },
+    {
+        "pokemonName":"Ariados",
+        "formName":null,
+        "smogonName":"Ariados",
+        "move":"Toxic Thread"
+    },
+    {
+        "pokemonName":"Pichu",
+        "formName":null,
+        "smogonName":"Pichu",
+        "move":"Volt Tackle"
+    },
+    {
+        "pokemonName":"Espeon",
+        "formName":null,
+        "smogonName":"Espeon",
+        "move":"Morning Sun"
+    },
+    {
+        "pokemonName":"Slowking",
+        "formName":null,
+        "smogonName":"Slowking",
+        "move":"Chilly Reception"
+    },
+    {
+        "pokemonName":"Slowking",
+        "formName":"Galarian",
+        "smogonName":"Slowking-Galar",
+        "move":"Eerie Spell"
+    },
+    {
+        "pokemonName":"Slowking",
+        "formName":"Galarian",
+        "smogonName":"Slowking-Galar",
+        "move":"Chilly Reception"
+    },
+    {
+        "pokemonName":"Unown",
+        "formName":null,
+        "smogonName":"Unown",
+        "move":"Hidden Power"
+    },
+    {
+        "pokemonName":"Girafarig",
+        "formName":null,
+        "smogonName":"Girafarig",
+        "move":"Twin Beam"
+    },
+    {
+        "pokemonName":"Dunsparce",
+        "formName":null,
+        "smogonName":"Dunsparce",
+        "move":"Hyper Drill"
+    },
+    {
+        "pokemonName":"Qwilfish",
+        "formName":null,
+        "smogonName":"Qwilfish",
+        "move":"Barb Barrage"
+    },
+    {
+        "pokemonName":"Qwilfish",
+        "formName":"Hisuian",
+        "smogonName":"Qwilfish-Hisui",
+        "move":"Barb Barrage"
+    },
+    {
+        "pokemonName":"Heracross",
+        "formName":null,
+        "smogonName":"Heracross",
+        "move":"Megahorn"
+    },
+    {
+        "pokemonName":"Porygon2",
+        "formName":null,
+        "smogonName":"Porygon2",
+        "move":"Conversion"
+    },
+    {
+        "pokemonName":"Porygon2",
+        "formName":null,
+        "smogonName":"Porygon2",
+        "move":"Conversion2"
+    },
+    {
+        "pokemonName":"Porygon2",
+        "formName":null,
+        "smogonName":"Porygon2",
+        "move":"Conversion 2"
+    },
+    {
+        "pokemonName":"Stantler",
+        "formName":null,
+        "smogonName":"Stantler",
+        "move":"Psyshield Bash"
+    },
+    {
+        "pokemonName":"Smeargle",
+        "formName":null,
+        "smogonName":"Smeargle",
+        "move":"Sketch"
+    },
+    {
+        "pokemonName":"Hitmontop",
+        "formName":null,
+        "smogonName":"Hitmontop",
+        "move":"Triple Kick"
+    },
+    {
+        "pokemonName":"Miltank",
+        "formName":null,
+        "smogonName":"Miltank",
+        "move":"Milk Drink"
+    },
+    {
+        "pokemonName":"Blissey",
+        "formName":null,
+        "smogonName":"Blissey",
+        "move":"Softboiled"
+    },
+    {
+        "pokemonName":"Blissey",
+        "formName":null,
+        "smogonName":"Blissey",
+        "move":"Soft-Boiled"
+    },
+    {
+        "pokemonName":"Lugia",
+        "formName":null,
+        "smogonName":"Lugia",
+        "move":"Aeroblast"
+    },
+    {
+        "pokemonName":"Ho-Oh",
+        "formName":null,
+        "smogonName":"Ho-Oh",
+        "move":"Sacred Fire"
+    },
+    {
+        "pokemonName":"Grovyle",
+        "formName":null,
+        "smogonName":"Grovyle",
+        "move":"Leaf Blade"
+    },
+    {
+        "pokemonName":"Sceptile",
+        "formName":null,
+        "smogonName":"Sceptile",
+        "move":"Leaf Blade"
+    },
+    {
+        "pokemonName":"Blaziken",
+        "formName":null,
+        "smogonName":"Blaziken",
+        "move":"Blaze Kick"
+    },
+    {
+        "pokemonName":"Marshtomp",
+        "formName":null,
+        "smogonName":"Marshtomp",
+        "move":"Muddy Water"
+    },
+    {
+        "pokemonName":"Swampert",
+        "formName":null,
+        "smogonName":"Swampert",
+        "move":"Muddy Water"
+    },
+    {
+        "pokemonName":"Slakoth",
+        "formName":null,
+        "smogonName":"Slakoth",
+        "move":"Slack Off"
+    },
+    {
+        "pokemonName":"Slaking",
+        "formName":null,
+        "smogonName":"Slaking",
+        "move":"Slack Off"
+    },
+    {
+        "pokemonName":"Makuhita",
+        "formName":null,
+        "smogonName":"Makuhita",
+        "move":"Arm Thrust"
+    },
+    {
+        "pokemonName":"Hariyama",
+        "formName":null,
+        "smogonName":"Hariyama",
+        "move":"Arm Thrust"
+    },
+    {
+        "pokemonName":"Volbeat",
+        "formName":null,
+        "smogonName":"Volbeat",
+        "move":"Tail Glow"
+    },
+    {
+        "pokemonName":"Cacnea",
+        "formName":null,
+        "smogonName":"Cacnea",
+        "move":"Needle Arm"
+    },
+    {
+        "pokemonName":"Cacturne",
+        "formName":null,
+        "smogonName":"Cacturne",
+        "move":"Needle Arm"
+    },
+    {
+        "pokemonName":"Seviper",
+        "formName":null,
+        "smogonName":"Seviper",
+        "move":"Poison Tail"
+    },
+    {
+        "pokemonName":"Castform",
+        "formName":null,
+        "smogonName":"Castform",
+        "move":"Weather Ball"
+    },
+    {
+        "pokemonName":"Latias",
+        "formName":null,
+        "smogonName":"Latias",
+        "move":"Mist Ball"
+    },
+    {
+        "pokemonName":"Latios",
+        "formName":null,
+        "smogonName":"Latios",
+        "move":"Luster Purge"
+    },
+    {
+        "pokemonName":"Kyogre",
+        "formName":null,
+        "smogonName":"Kyogre",
+        "move":"Origin Pulse"
+    },
+    {
+        "pokemonName":"Groudon",
+        "formName":null,
+        "smogonName":"Groudon",
+        "move":"Precipice Blades"
+    },
+    {
+        "pokemonName":"Rayquaza",
+        "formName":null,
+        "smogonName":"Rayquaza",
+        "move":"Dragon Ascent"
+    },
+    {
+        "pokemonName":"Jirachi",
+        "formName":null,
+        "smogonName":"Jirachi",
+        "move":"Doom Desire"
+    },
+    {
+        "pokemonName":"Deoxys",
+        "formName":null,
+        "smogonName":"Deoxys",
+        "move":"Psycho Boost"
+    },
+    {
+        "pokemonName":"Deoxys",
+        "formName":"Attack Form",
+        "smogonName":"Deoxys-Attack",
+        "move":"Psycho Boost"
+    },
+    {
+        "pokemonName":"Deoxys",
+        "formName":"Defense Form",
+        "smogonName":"Deoxys-Defense",
+        "move":"Psycho Boost"
+    },
+    {
+        "pokemonName":"Deoxys",
+        "formName":"Speed Form",
+        "smogonName":"Deoxys-Speed",
+        "move":"Psycho Boost"
+    },
+    {
+        "pokemonName":"Vespiquen",
+        "formName":null,
+        "smogonName":"Vespiquen",
+        "move":"Defend Order"
+    },
+    {
+        "pokemonName":"Vespiquen",
+        "formName":null,
+        "smogonName":"Vespiquen",
+        "move":"Heal Order"
+    },
+    {
+        "pokemonName":"Vespiquen",
+        "formName":null,
+        "smogonName":"Vespiquen",
+        "move":"Attack Order"
+    },
+    {
+        "pokemonName":"Happiny",
+        "formName":null,
+        "smogonName":"Happiny",
+        "move":"Soft-Boiled"
+    },
+    {
+        "pokemonName":"Chatot",
+        "formName":null,
+        "smogonName":"Chatot",
+        "move":"Chatter"
+    },
+    {
+        "pokemonName":"Rhyperior",
+        "formName":null,
+        "smogonName":"Rhyperior",
+        "move":"Rock Wrecker"
+    },
+    {
+        "pokemonName":"Porygon-Z",
+        "formName":null,
+        "smogonName":"Porygon-Z",
+        "move":"Conversion"
+    },
+    {
+        "pokemonName":"Porygon-Z",
+        "formName":null,
+        "smogonName":"Porygon-Z",
+        "move":"Conversion 2"
+    },
+    {
+        "pokemonName":"Uxie",
+        "formName":null,
+        "smogonName":"Uxie",
+        "move":"Mystical Power"
+    },
+    {
+        "pokemonName":"Mesprit",
+        "formName":null,
+        "smogonName":"Mesprit",
+        "move":"Mystical Power"
+    },
+    {
+        "pokemonName":"Azelf",
+        "formName":null,
+        "smogonName":"Azelf",
+        "move":"Mystical Power"
+    },
+    {
+        "pokemonName":"Dialga",
+        "formName":null,
+        "smogonName":"Dialga",
+        "move":"Roar of Time"
+    },
+    {
+        "pokemonName":"Palkia",
+        "formName":null,
+        "smogonName":"Palkia",
+        "move":"Spacial Rend"
+    },
+    {
+        "pokemonName":"Heatran",
+        "formName":null,
+        "smogonName":"Heatran",
+        "move":"Magma Storm"
+    },
+    {
+        "pokemonName":"Regigigas",
+        "formName":null,
+        "smogonName":"Regigigas",
+        "move":"Crush Grip"
+    },
+    {
+        "pokemonName":"Giratina",
+        "formName":null,
+        "smogonName":"Giratina",
+        "move":"Shadow Force"
+    },
+    {
+        "pokemonName":"Giratina",
+        "formName":"Origin Form",
+        "smogonName":"Giratina-Origin",
+        "move":"Shadow Force"
+    },
+    {
+        "pokemonName":"Cresselia",
+        "formName":null,
+        "smogonName":"Cresselia",
+        "move":"Lunar Dance"
+    },
+    {
+        "pokemonName":"Cresselia",
+        "formName":null,
+        "smogonName":"Cresselia",
+        "move":"Lunar Blessing"
+    },
+    {
+        "pokemonName":"Phione",
+        "formName":null,
+        "smogonName":"Phione",
+        "move":"Take Heart"
+    },
+    {
+        "pokemonName":"Manaphy",
+        "formName":null,
+        "smogonName":"Manaphy",
+        "move":"Heart Swap"
+    },
+    {
+        "pokemonName":"Manaphy",
+        "formName":null,
+        "smogonName":"Manaphy",
+        "move":"Take Heart"
+    },
+    {
+        "pokemonName":"Darkrai",
+        "formName":null,
+        "smogonName":"Darkrai",
+        "move":"Dark Void"
+    },
+    {
+        "pokemonName":"Shaymin",
+        "formName":"Land Form",
+        "smogonName":"Shaymin",
+        "move":"Seed Flare"
+    },
+    {
+        "pokemonName":"Shaymin",
+        "formName":"Sky Form",
+        "smogonName":"Shaymin-Sky",
+        "move":"Seed Flare"
+    },
+    {
+        "pokemonName":"Arceus",
+        "formName":null,
+        "smogonName":"Arceus",
+        "move":"Judgment",
+        "items": [
+            null,
+            "Draco Plate",
+            "Dread Plate",
+            "Earth Plate",
+            "Fist Plate",
+            "Flame Plate",
+            "Icicle Plate",
+            "Insect Plate",
+            "Iron Plate",
+            "Meadow Plate",
+            "Mind Plate",
+            "Pixie Plate",
+            "Sky Plate",
+            "Splash Plate",
+            "Spooky Plate",
+            "Stone Plate",
+            "Toxic Plate",
+            "Zap Plate"
+        ]
+    },
+    {
+        "pokemonName":"Victini",
+        "formName":null,
+        "smogonName":"Victini",
+        "move":"Searing Shot"
+    },
+    {
+        "pokemonName":"Victini",
+        "formName":null,
+        "smogonName":"Victini",
+        "move":"V-create"
+    },
+    {
+        "pokemonName":"Tepig",
+        "formName":null,
+        "smogonName":"Tepig",
+        "move":"Heat Crash"
+    },
+    {
+        "pokemonName":"Pignite",
+        "formName":null,
+        "smogonName":"Pignite",
+        "move":"Heat Crash"
+    },
+    {
+        "pokemonName":"Emboar",
+        "formName":null,
+        "smogonName":"Emboar",
+        "move":"Heat Crash"
+    },
+    {
+        "pokemonName":"Samurott",
+        "formName":"Hisuian",
+        "smogonName":"Samurott-Hisui",
+        "move":"Ceaseless Edge"
+    },
+    {
+        "pokemonName":"Lilligant",
+        "formName":"Hisuian",
+        "smogonName":"Lilligant-Hisui",
+        "move":"Victory Dance"
+    },
+    {
+        "pokemonName":"Zorua",
+        "formName":null,
+        "smogonName":"Zorua",
+        "move":"Night Daze"
+    },
+    {
+        "pokemonName":"Zorua",
+        "formName":"Hisuian",
+        "smogonName":"Zorua-Hisui",
+        "move":"Bitter Malice"
+    },
+    {
+        "pokemonName":"Zoroark",
+        "formName":null,
+        "smogonName":"Zoroark",
+        "move":"Night Daze"
+    },
+    {
+        "pokemonName":"Zoroark",
+        "formName":"Hisuian",
+        "smogonName":"Zoroark-Hisui",
+        "move":"Bitter Malice"
+    },
+    {
+        "pokemonName":"Sawsbuck",
+        "formName":null,
+        "smogonName":"Sawsbuck",
+        "move":"Horn Leech"
+    },
+    {
+        "pokemonName":"Klink",
+        "formName":null,
+        "smogonName":"Klink",
+        "move":"Gear Grind"
+    },
+    {
+        "pokemonName":"Klink",
+        "formName":null,
+        "smogonName":"Klink",
+        "move":"Shift Gear"
+    },
+    {
+        "pokemonName":"Klang",
+        "formName":null,
+        "smogonName":"Klang",
+        "move":"Gear Grind"
+    },
+    {
+        "pokemonName":"Klang",
+        "formName":null,
+        "smogonName":"Klang",
+        "move":"Shift Gear"
+    },
+    {
+        "pokemonName":"Klinklang",
+        "formName":null,
+        "smogonName":"Klinklang",
+        "move":"Gear Grind"
+    },
+    {
+        "pokemonName":"Klinklang",
+        "formName":null,
+        "smogonName":"Klinklang",
+        "move":"Shift Gear"
+    },
+    {
+        "pokemonName":"Accelgor",
+        "formName":null,
+        "smogonName":"Accelgor",
+        "move":"Water Shuriken"
+    },
+    {
+        "pokemonName":"Stunfisk",
+        "formName":"Galarian",
+        "smogonName":"Stunfisk-Galar",
+        "move":"Snap Trap"
+    },
+    {
+        "pokemonName":"Bouffalant",
+        "formName":null,
+        "smogonName":"Bouffalant",
+        "move":"Head Charge"
+    },
+    {
+        "pokemonName":"Braviary",
+        "formName":"Hisuian",
+        "smogonName":"Braviary-Hisui",
+        "move":"Esper Wing"
+    },
+    {
+        "pokemonName":"Heatmor",
+        "formName":null,
+        "smogonName":"Heatmor",
+        "move":"Fire Lash"
+    },
+    {
+        "pokemonName":"Volcarona",
+        "formName":null,
+        "smogonName":"Volcarona",
+        "move":"Fiery Dance"
+    },
+    {
+        "pokemonName":"Cobalion",
+        "formName":null,
+        "smogonName":"Cobalion",
+        "move":"Sacred Sword"
+    },
+    {
+        "pokemonName":"Terrakion",
+        "formName":null,
+        "smogonName":"Terrakion",
+        "move":"Sacred Sword"
+    },
+    {
+        "pokemonName":"Virizion",
+        "formName":null,
+        "smogonName":"Virizion",
+        "move":"Sacred Sword"
+    },
+    {
+        "pokemonName":"Tornadus",
+        "formName":null,
+        "smogonName":"Tornadus",
+        "move":"Bleakwind Storm"
+    },
+    {
+        "pokemonName":"Thundurus",
+        "formName":null,
+        "smogonName":"Thundurus",
+        "move":"Wildbolt Storm"
+    },
+    {
+        "pokemonName":"Reshiram",
+        "formName":null,
+        "smogonName":"Reshiram",
+        "move":"Fusion Flare"
+    },
+    {
+        "pokemonName":"Reshiram",
+        "formName":null,
+        "smogonName":"Reshiram",
+        "move":"Blue Flare"
+    },
+    {
+        "pokemonName":"Zekrom",
+        "formName":null,
+        "smogonName":"Zekrom",
+        "move":"Fusion Bolt"
+    },
+    {
+        "pokemonName":"Zekrom",
+        "formName":null,
+        "smogonName":"Zekrom",
+        "move":"Bolt Strike"
+    },
+    {
+        "pokemonName":"Landorus",
+        "formName":null,
+        "smogonName":"Landorus",
+        "move":"Sandsear Storm"
+    },
+    {
+        "pokemonName":"Kyurem",
+        "formName":null,
+        "smogonName":"Kyurem",
+        "move":"Glaciate"
+    },
+    {
+        "pokemonName":"Kyurem",
+        "formName":"White",
+        "smogonName":"Kyurem-White",
+        "move":"Fusion Flare"
+    },
+    {
+        "pokemonName":"Kyurem",
+        "formName":"White",
+        "smogonName":"Kyurem-White",
+        "move":"Ice Burn"
+    },
+    {
+        "pokemonName":"Kyurem",
+        "formName":"Black",
+        "smogonName":"Kyurem-Black",
+        "move":"Fusion Bolt"
+    },
+    {
+        "pokemonName":"Kyurem",
+        "formName":"Black",
+        "smogonName":"Kyurem-Black",
+        "move":"Freeze Shock"
+    },
+    {
+        "pokemonName":"Keldeo",
+        "formName":"Resolute Form",
+        "smogonName":"Keldeo-Resolute",
+        "move":"Secret Sword"
+    },
+    {
+        "pokemonName":"Keldeo",
+        "formName":null,
+        "smogonName":"Keldeo",
+        "move":"Sacred Sword"
+    },
+    {
+        "pokemonName":"Keldeo",
+        "formName":"Resolute Form",
+        "smogonName":"Keldeo-Resolute",
+        "move":"Sacred Sword"
+    },
+    {
+        "pokemonName":"Meloetta",
+        "formName":null,
+        "smogonName":"Meloetta",
+        "move":"Relic Song"
+    },
+    {
+        "pokemonName":"Genesect",
+        "formName":null,
+        "smogonName":"Genesect",
+        "move":"Techno Blast",
+        "items": [
+            null,
+            "Douse Drive",
+            "Shock Drive",
+            "Burn Drive",
+            "Chill Drive"
+        ]
+    },
+    {
+        "pokemonName":"Greninja",
+        "formName":null,
+        "smogonName":"Greninja",
+        "move":"Mat Block"
+    },
+    {
+        "pokemonName":"Greninja",
+        "formName":"Ash-Greninja",
+        "smogonName":"Greninja-Ash",
+        "move":"Water Shuriken"
+    },
+    {
+        "pokemonName":"Vivillon",
+        "formName":null,
+        "smogonName":"Vivillon",
+        "move":"Powder"
+    },
+    {
+        "pokemonName":"Litleo",
+        "formName":null,
+        "smogonName":"Litleo",
+        "move":"Noble Roar"
+    },
+    {
+        "pokemonName":"Pyroar",
+        "formName":null,
+        "smogonName":"Pyroar",
+        "move":"Noble Roar"
+    },
+    {
+        "pokemonName":"Floette",
+        "formName":"Eternal",
+        "smogonName":"Floette-Eternal",
+        "move":"Light of Ruin"
+    },
+    {
+        "pokemonName":"Skiddo",
+        "formName":null,
+        "smogonName":"Skiddo",
+        "move":"Milk Drink"
+    },
+    {
+        "pokemonName":"Gogoat",
+        "formName":null,
+        "smogonName":"Gogoat",
+        "move":"Milk Drink"
+    },
+    {
+        "pokemonName":"Pancham",
+        "formName":null,
+        "smogonName":"Pancham",
+        "move":"Parting Shot"
+    },
+    {
+        "pokemonName":"Pangoro",
+        "formName":null,
+        "smogonName":"Pangoro",
+        "move":"Parting Shot"
+    },
+    {
+        "pokemonName":"Aegislash",
+        "formName":null,
+        "smogonName":"Aegislash",
+        "move":"King's Shield"
+    },
+    {
+        "pokemonName":"Aromatisse",
+        "formName":null,
+        "smogonName":"Aromatisse",
+        "move":"Aromatic Mist"
+    },
+    {
+        "pokemonName":"Inkay",
+        "formName":null,
+        "smogonName":"Inkay",
+        "move":"Topsy-Turvy"
+    },
+    {
+        "pokemonName":"Malamar",
+        "formName":null,
+        "smogonName":"Malamar",
+        "move":"Topsy-Turvy"
+    },
+    {
+        "pokemonName":"Helioptile",
+        "formName":null,
+        "smogonName":"Helioptile",
+        "move":"Electrify"
+    },
+    {
+        "pokemonName":"Heliolisk",
+        "formName":null,
+        "smogonName":"Heliolisk",
+        "move":"Electrify"
+    },
+    {
+        "pokemonName":"Hawlucha",
+        "formName":null,
+        "smogonName":"Hawlucha",
+        "move":"Flying Press"
+    },
+    {
+        "pokemonName":"Goomy",
+        "formName":null,
+        "smogonName":"Goomy",
+        "move":"Shelter"
+    },
+    {
+        "pokemonName":"Sliggoo",
+        "formName":"Hisuian",
+        "smogonName":"Sliggoo-Hisui",
+        "move":"Shelter"
+    },
+    {
+        "pokemonName":"Goodra",
+        "formName":"Hisuian",
+        "smogonName":"Goodra-Hisui",
+        "move":"Shelter"
+    },
+    {
+        "pokemonName":"Klefki",
+        "formName":null,
+        "smogonName":"Klefki",
+        "move":"Fairy Lock"
+    },
+    {
+        "pokemonName":"Klefki",
+        "formName":null,
+        "smogonName":"Klefki",
+        "move":"Crafty Shield"
+    },
+    {
+        "pokemonName":"Phantump",
+        "formName":null,
+        "smogonName":"Phantump",
+        "move":"Forest's Curse"
+    },
+    {
+        "pokemonName":"Trevenant",
+        "formName":null,
+        "smogonName":"Trevenant",
+        "move":"Forest's Curse"
+    },
+    {
+        "pokemonName":"Pumpkaboo",
+        "formName":null,
+        "smogonName":"Pumpkaboo",
+        "move":"Trick-or-Treat"
+    },
+    {
+        "pokemonName":"Gourgeist",
+        "formName":null,
+        "smogonName":"Gourgeist",
+        "move":"Trick-or-Treat"
+    },
+    {
+        "pokemonName":"Avalugg",
+        "formName":"Hisuian",
+        "smogonName":"Avalugg-Hisui",
+        "move":"Mountain Gale"
+    },
+    {
+        "pokemonName":"Xerneas",
+        "formName":null,
+        "smogonName":"Xerneas",
+        "move":"Geomancy"
+    },
+    {
+        "pokemonName":"Yveltal",
+        "formName":null,
+        "smogonName":"Yveltal",
+        "move":"Oblivion Wing"
+    },
+    {
+        "pokemonName":"Zygarde",
+        "formName":null,
+        "smogonName":"Zygarde",
+        "move":"Land's Wrath"
+    },
+    {
+        "pokemonName":"Zygarde",
+        "formName":null,
+        "smogonName":"Zygarde",
+        "move":"Thousand Arrows"
+    },
+    {
+        "pokemonName":"Zygarde",
+        "formName":null,
+        "smogonName":"Zygarde",
+        "move":"Thousand Waves"
+    },
+    {
+        "pokemonName":"Zygarde",
+        "formName":null,
+        "smogonName":"Zygarde",
+        "move":"Core Enforcer"
+    },
+    {
+        "pokemonName":"Diancie",
+        "formName":null,
+        "smogonName":"Diancie",
+        "move":"Diamond Storm"
+    },
+    {
+        "pokemonName":"Hoopa",
+        "formName":"Hoopa Confined",
+        "smogonName":"Hoopa",
+        "move":"Hyperspace Hole"
+    },
+    {
+        "pokemonName":"Hoopa",
+        "formName":"Unbound",
+        "smogonName":"Hoopa-Unbound",
+        "move":"Hyperspace Fury"
+    },
+    {
+        "pokemonName":"Volcanion",
+        "formName":null,
+        "smogonName":"Volcanion",
+        "move":"Steam Eruption"
+    },
+    {
+        "pokemonName":"Decidueye",
+        "formName":null,
+        "smogonName":"Decidueye",
+        "move":"Spirit Shackle"
+    },
+    {
+        "pokemonName":"Decidueye",
+        "formName":"Hisuian",
+        "smogonName":"Decidueye-Hisui",
+        "move":"Triple Arrows"
+    },
+    {
+        "pokemonName":"Incineroar",
+        "formName":null,
+        "smogonName":"Incineroar",
+        "move":"Darkest Lariat"
+    },
+    {
+        "pokemonName":"Primarina",
+        "formName":null,
+        "smogonName":"Primarina",
+        "move":"Sparkling Aria"
+    },
+    {
+        "pokemonName":"Toucannon",
+        "formName":null,
+        "smogonName":"Toucannon",
+        "move":"Beak Blast"
+    },
+    {
+        "pokemonName":"Crabominable",
+        "formName":null,
+        "smogonName":"Crabominable",
+        "move":"Ice Hammer"
+    },
+    {
+        "pokemonName":"Oricorio",
+        "formName":null,
+        "smogonName":"Oricorio",
+        "move":"Revelation Dance"
+    },
+    {
+        "pokemonName":"Ribombee",
+        "formName":null,
+        "smogonName":"Ribombee",
+        "move":"Pollen Puff"
+    },
+    {
+        "pokemonName":"Lycanroc",
+        "formName":"Midday",
+        "smogonName":"Lycanroc-Midday",
+        "move":"Accelerock"
+    },
+    {
+        "pokemonName":"Lycanroc",
+        "formName":"Dusk",
+        "smogonName":"Lycanroc-Dusk",
+        "move":"Accelerock"
+    },
+    {
+        "pokemonName":"Toxapex",
+        "formName":null,
+        "smogonName":"Toxapex",
+        "move":"Baneful Bunker"
+    },
+    {
+        "pokemonName":"Lurantis",
+        "formName":null,
+        "smogonName":"Lurantis",
+        "move":"Solar Blade"
+    },
+    {
+        "pokemonName":"Salazzle",
+        "formName":null,
+        "smogonName":"Salazzle",
+        "move":"Fire Lash"
+    },
+    {
+        "pokemonName":"Tsareena",
+        "formName":null,
+        "smogonName":"Tsareena",
+        "move":"Trop Kick"
+    },
+    {
+        "pokemonName":"Comfey",
+        "formName":null,
+        "smogonName":"Comfey",
+        "move":"Floral Healing"
+    },
+    {
+        "pokemonName":"Oranguru",
+        "formName":null,
+        "smogonName":"Oranguru",
+        "move":"Instruct"
+    },
+    {
+        "pokemonName":"Sandygast",
+        "formName":null,
+        "smogonName":"Sandygast",
+        "move":"Shore Up"
+    },
+    {
+        "pokemonName":"Palossand",
+        "formName":null,
+        "smogonName":"Palossand",
+        "move":"Shore Up"
+    },
+    {
+        "pokemonName":"Pyukumuku",
+        "formName":null,
+        "smogonName":"Pyukumuku",
+        "move":"Purify"
+    },
+    {
+        "pokemonName":"Silvally",
+        "formName":null,
+        "smogonName":"Silvally",
+        "move":"Multi-Attack",
+        "items": [
+            null,
+            "Bug Memory",
+            "Dark Memory",
+            "Dragon Memory",
+            "Electric Memory",
+            "Fairy Memory",
+            "Fighting Memory",
+            "Fire Memory",
+            "Flying Memory",
+            "Ghost Memory",
+            "Grass Memory",
+            "Ground Memory",
+            "Ice Memory",
+            "Poison Memory",
+            "Psychic Memory",
+            "Rock Memory",
+            "Steel Memory",
+            "Water Memory"
+        ]
+    },
+    {
+        "pokemonName":"Turtonator",
+        "formName":null,
+        "smogonName":"Turtonator",
+        "move":"Shell Trap"
+    },
+    {
+        "pokemonName":"Togedemaru",
+        "formName":null,
+        "smogonName":"Togedemaru",
+        "move":"Zing Zap"
+    },
+    {
+        "pokemonName":"Dhelmise",
+        "formName":null,
+        "smogonName":"Dhelmise",
+        "move":"Anchor Shot"
+    },
+    {
+        "pokemonName":"Kommo-o",
+        "formName":null,
+        "smogonName":"Kommo-o",
+        "move":"Clanging Scales"
+    },
+    {
+        "pokemonName":"Kommo-o",
+        "formName":null,
+        "smogonName":"Kommo-o",
+        "move":"Clangorous Soul"
+    },
+    {
+        "pokemonName":"Tapu Koko",
+        "formName":null,
+        "smogonName":"Tapu Koko",
+        "move":"Nature's Madness"
+    },
+    {
+        "pokemonName":"Tapu Lele",
+        "formName":null,
+        "smogonName":"Tapu Lele",
+        "move":"Nature's Madness"
+    },
+    {
+        "pokemonName":"Tapu Bulu",
+        "formName":null,
+        "smogonName":"Tapu Bulu",
+        "move":"Nature's Madness"
+    },
+    {
+        "pokemonName":"Tapu Fini",
+        "formName":null,
+        "smogonName":"Tapu Fini",
+        "move":"Nature's Madness"
+    },
+    {
+        "pokemonName":"Solgaleo",
+        "formName":null,
+        "smogonName":"Solgaleo",
+        "move":"Sunsteel Strike"
+    },
+    {
+        "pokemonName":"Lunala",
+        "formName":null,
+        "smogonName":"Lunala",
+        "move":"Moongeist Beam"
+    },
+    {
+        "pokemonName":"Necrozma",
+        "formName":null,
+        "smogonName":"Necrozma",
+        "move":"Prismatic Laser"
+    },
+    {
+        "pokemonName":"Necrozma",
+        "formName":null,
+        "smogonName":"Necrozma",
+        "move":"Photon Geyser"
+    },
+    {
+        "pokemonName":"Necrozma",
+        "formName":"Dusk Mane",
+        "smogonName":"Necrozma-Dusk-Mane",
+        "move":"Prismatic Laser"
+    },
+    {
+        "pokemonName":"Necrozma",
+        "formName":"Dusk Mane",
+        "smogonName":"Necrozma-Dusk-Mane",
+        "move":"Sunsteel Strike"
+    },
+    {
+        "pokemonName":"Necrozma",
+        "formName":"Dusk Mane",
+        "smogonName":"Necrozma-Dusk-Mane",
+        "move":"Photon Geyser"
+    },
+    {
+        "pokemonName":"Necrozma",
+        "formName":"Dawn Wings",
+        "smogonName":"Necrozma-Dawn-Wings",
+        "move":"Prismatic Laser"
+    },
+    {
+        "pokemonName":"Necrozma",
+        "formName":"Dawn Wings",
+        "smogonName":"Necrozma-Dawn-Wings",
+        "move":"Moongeist Beam"
+    },
+    {
+        "pokemonName":"Necrozma",
+        "formName":"Dawn Wings",
+        "smogonName":"Necrozma-Dawn-Wings",
+        "move":"Photon Geyser"
+    },
+    {
+        "pokemonName":"Magearna",
+        "formName":null,
+        "smogonName":"Magearna",
+        "move":"Fleur Cannon"
+    },
+    {
+        "pokemonName":"Marshadow",
+        "formName":null,
+        "smogonName":"Marshadow",
+        "move":"Spectral Thief"
+    },
+    {
+        "pokemonName":"Blacephalon",
+        "formName":null,
+        "smogonName":"Blacephalon",
+        "move":"Mind Blown"
+    },
+    {
+        "pokemonName":"Zeraora",
+        "formName":null,
+        "smogonName":"Zeraora",
+        "move":"Plasma Fists"
+    },
+    {
+        "pokemonName":"Melmetal",
+        "formName":null,
+        "smogonName":"Melmetal",
+        "move":"Double Iron Bash"
+    },
+    {
+        "pokemonName":"Rillaboom",
+        "formName":null,
+        "smogonName":"Rillaboom",
+        "move":"Drum Beating"
+    },
+    {
+        "pokemonName":"Cinderace",
+        "formName":null,
+        "smogonName":"Cinderace",
+        "move":"Court Change"
+    },
+    {
+        "pokemonName":"Cinderace",
+        "formName":null,
+        "smogonName":"Cinderace",
+        "move":"Pyro Ball"
+    },
+    {
+        "pokemonName":"Inteleon",
+        "formName":null,
+        "smogonName":"Inteleon",
+        "move":"Snipe Shot"
+    },
+    {
+        "pokemonName":"Skwovet",
+        "formName":null,
+        "smogonName":"Skwovet",
+        "move":"Stuff Cheeks"
+    },
+    {
+        "pokemonName":"Greedent",
+        "formName":null,
+        "smogonName":"Greedent",
+        "move":"Stuff Cheeks"
+    },
+    {
+        "pokemonName":"Chewtle",
+        "formName":null,
+        "smogonName":"Chewtle",
+        "move":"Jaw Lock"
+    },
+    {
+        "pokemonName":"Drednaw",
+        "formName":null,
+        "smogonName":"Drednaw",
+        "move":"Jaw Lock"
+    },
+    {
+        "pokemonName":"Coalossal",
+        "formName":null,
+        "smogonName":"Coalossal",
+        "move":"Tar Shot"
+    },
+    {
+        "pokemonName":"Flapple",
+        "formName":null,
+        "smogonName":"Flapple",
+        "move":"Grav Apple"
+    },
+    {
+        "pokemonName":"Appletun",
+        "formName":null,
+        "smogonName":"Appletun",
+        "move":"Apple Acid"
+    },
+    {
+        "pokemonName":"Toxtricity",
+        "formName":null,
+        "smogonName":"Toxtricity",
+        "move":"Overdrive"
+    },
+    {
+        "pokemonName":"Grapploct",
+        "formName":null,
+        "smogonName":"Grapploct",
+        "move":"Octolock"
+    },
+    {
+        "pokemonName":"Polteageist",
+        "formName":null,
+        "smogonName":"Polteageist",
+        "move":"Teatime"
+    },
+    {
+        "pokemonName":"Hatterene",
+        "formName":null,
+        "smogonName":"Hatterene",
+        "move":"Magic Powder"
+    },
+    {
+        "pokemonName":"Impidimp",
+        "formName":null,
+        "smogonName":"Impidimp",
+        "move":"Confide"
+    },
+    {
+        "pokemonName":"Morgrem",
+        "formName":null,
+        "smogonName":"Morgrem",
+        "move":"False Surrender"
+    },
+    {
+        "pokemonName":"Morgrem",
+        "formName":null,
+        "smogonName":"Morgrem",
+        "move":"Confide"
+    },
+    {
+        "pokemonName":"Grimmsnarl",
+        "formName":null,
+        "smogonName":"Grimmsnarl",
+        "move":"False Surrender"
+    },
+    {
+        "pokemonName":"Grimmsnarl",
+        "formName":null,
+        "smogonName":"Grimmsnarl",
+        "move":"Spirit Break"
+    },
+    {
+        "pokemonName":"Grimmsnarl",
+        "formName":null,
+        "smogonName":"Grimmsnarl",
+        "move":"Confide"
+    },
+    {
+        "pokemonName":"Obstagoon",
+        "formName":null,
+        "smogonName":"Obstagoon",
+        "move":"Obstruct"
+    },
+    {
+        "pokemonName":"Perrserker",
+        "formName":null,
+        "smogonName":"Perrserker",
+        "move":"Pay Day"
+    },
+    {
+        "pokemonName":"Sirfetch'd",
+        "formName":null,
+        "smogonName":"Sirfetch'd",
+        "move":"Meteor Assault"
+    },
+    {
+        "pokemonName":"Alcremie",
+        "formName":null,
+        "smogonName":"Alcremie",
+        "move":"Decorate"
+    },
+    {
+        "pokemonName":"Falinks",
+        "formName":null,
+        "smogonName":"Falinks",
+        "move":"No Retreat"
+    },
+    {
+        "pokemonName":"Pincurchin",
+        "formName":null,
+        "smogonName":"Pincurchin",
+        "move":"Zing Zap"
+    },
+    {
+        "pokemonName":"Morpeko",
+        "formName":null,
+        "smogonName":"Morpeko",
+        "move":"Aura Wheel"
+    },
+    {
+        "pokemonName":"Dragapult",
+        "formName":null,
+        "smogonName":"Dragapult",
+        "move":"Dragon Darts"
+    },
+    {
+        "pokemonName":"Zacian",
+        "formName":"Crowned",
+        "smogonName":"Zacian-Crowned",
+        "move":"Behemoth Blade"
+    },
+    {
+        "pokemonName":"Zamazenta",
+        "formName":"Crowned",
+        "smogonName":"Zamazenta-Crowned",
+        "move":"Behemoth Bash"
+    },
+    {
+        "pokemonName":"Eternatus",
+        "formName":null,
+        "smogonName":"Eternatus",
+        "move":"Eternabeam"
+    },
+    {
+        "pokemonName":"Eternatus",
+        "formName":null,
+        "smogonName":"Eternatus",
+        "move":"Dynamax Cannon"
+    },
+    {
+        "pokemonName":"Urshifu",
+        "formName":"Single Strike",
+        "smogonName":"Urshifu",
+        "move":"Wicked Blow"
+    },
+    {
+        "pokemonName":"Urshifu",
+        "formName":"Rapid Strike",
+        "smogonName":"Urshifu-Rapid-Strike",
+        "move":"Surging Strikes"
+    },
+    {
+        "pokemonName":"Zarude",
+        "formName":null,
+        "smogonName":"Zarude",
+        "move":"Jungle Healing"
+    },
+    {
+        "pokemonName":"Regieleki",
+        "formName":null,
+        "smogonName":"Regieleki",
+        "move":"Thunder Cage"
+    },
+    {
+        "pokemonName":"Regidrago",
+        "formName":null,
+        "smogonName":"Regidrago",
+        "move":"Dragon Energy"
+    },
+    {
+        "pokemonName":"Calyrex",
+        "formName":"Ice Rider",
+        "smogonName":"Calyrex-Ice",
+        "move":"Glacial Lance"
+    },
+    {
+        "pokemonName":"Calyrex",
+        "formName":"Shadow Rider",
+        "smogonName":"Calyrex-Shadow",
+        "move":"Astral Barrage"
+    },
+    {
+        "pokemonName":"Wyrdeer",
+        "formName":null,
+        "smogonName":"Wyrdeer",
+        "move":"Psyshield Bash"
+    },
+    {
+        "pokemonName":"Kleavor",
+        "formName":null,
+        "smogonName":"Kleavor",
+        "move":"Stone Axe"
+    },
+    {
+        "pokemonName":"Ursaluna",
+        "formName":"Bloodmoon",
+        "smogonName":"Ursaluna-Bloodmoon",
+        "move":"Blood Moon"
+    },
+    {
+        "pokemonName":"Sneasler",
+        "formName":null,
+        "smogonName":"Sneasler",
+        "move":"Dire Claw"
+    },
+    {
+        "pokemonName":"Overqwil",
+        "formName":null,
+        "smogonName":"Overqwil",
+        "move":"Barb Barrage"
+    },
+    {
+        "pokemonName":"Enamorus",
+        "formName":null,
+        "smogonName":"Enamorus",
+        "move":"Springtide Storm"
+    },
+    {
+        "pokemonName":"Meowscarada",
+        "formName":null,
+        "smogonName":"Meowscarada",
+        "move":"Flower Trick"
+    },
+    {
+        "pokemonName":"Skeledirge",
+        "formName":null,
+        "smogonName":"Skeledirge",
+        "move":"Torch Song"
+    },
+    {
+        "pokemonName":"Quaquaval",
+        "formName":null,
+        "smogonName":"Quaquaval",
+        "move":"Aqua Step"
+    },
+    {
+        "pokemonName":"Spidops",
+        "formName":null,
+        "smogonName":"Spidops",
+        "move":"Silk Trap"
+    },
+    {
+        "pokemonName":"Pawmot",
+        "formName":null,
+        "smogonName":"Pawmot",
+        "move":"Double Shock"
+    },
+    {
+        "pokemonName":"Tandemaus",
+        "formName":null,
+        "smogonName":"Tandemaus",
+        "move":"Population Bomb"
+    },
+    {
+        "pokemonName":"Maushold",
+        "formName":null,
+        "smogonName":"Maushold",
+        "move":"Population Bomb"
+    },
+    {
+        "pokemonName":"Smoliv",
+        "formName":null,
+        "smogonName":"Smoliv",
+        "move":"Terrain Pulse"
+    },
+    {
+        "pokemonName":"Dolliv",
+        "formName":null,
+        "smogonName":"Dolliv",
+        "move":"Terrain Pulse"
+    },
+    {
+        "pokemonName":"Arboliva",
+        "formName":null,
+        "smogonName":"Arboliva",
+        "move":"Terrain Pulse"
+    },
+    {
+        "pokemonName":"Naclstack",
+        "formName":null,
+        "smogonName":"Naclstack",
+        "move":"Salt Cure"
+    },
+    {
+        "pokemonName":"Garganacl",
+        "formName":null,
+        "smogonName":"Garganacl",
+        "move":"Salt Cure"
+    },
+    {
+        "pokemonName":"Armarouge",
+        "formName":null,
+        "smogonName":"Armarouge",
+        "move":"Armor Cannon"
+    },
+    {
+        "pokemonName":"Ceruledge",
+        "formName":null,
+        "smogonName":"Ceruledge",
+        "move":"Bitter Blade"
+    },
+    {
+        "pokemonName":"Grafaiai",
+        "formName":null,
+        "smogonName":"Grafaiai",
+        "move":"Doodle"
+    },
+    {
+        "pokemonName":"Scovillain",
+        "formName":null,
+        "smogonName":"Scovillain",
+        "move":"Spicy Extract"
+    },
+    {
+        "pokemonName":"Rabsca",
+        "formName":null,
+        "smogonName":"Rabsca",
+        "move":"Speed Swap"
+    },
+    {
+        "pokemonName":"Espathra",
+        "formName":null,
+        "smogonName":"Espathra",
+        "move":"Lumina Crash"
+    },
+    {
+        "pokemonName":"Tinkaton",
+        "formName":null,
+        "smogonName":"Tinkaton",
+        "move":"Gigaton Hammer"
+    },
+    {
+        "pokemonName":"Wugtrio",
+        "formName":null,
+        "smogonName":"Wugtrio",
+        "move":"Triple Dive"
+    },
+    {
+        "pokemonName":"Palafin",
+        "formName":null,
+        "smogonName":"Palafin",
+        "move":"Jet Punch"
+    },
+    {
+        "pokemonName":"Varoom",
+        "formName":null,
+        "smogonName":"Varoom",
+        "move":"Spin Out"
+    },
+    {
+        "pokemonName":"Revavroom",
+        "formName":null,
+        "smogonName":"Revavroom",
+        "move":"Spin Out"
+    },
+    {
+        "pokemonName":"Glimmora",
+        "formName":null,
+        "smogonName":"Glimmora",
+        "move":"Mortal Spin"
+    },
+    {
+        "pokemonName":"Veluza",
+        "formName":null,
+        "smogonName":"Veluza",
+        "move":"Fillet Away"
+    },
+    {
+        "pokemonName":"Dondozo",
+        "formName":null,
+        "smogonName":"Dondozo",
+        "move":"Order Up"
+    },
+    {
+        "pokemonName":"Annihilape",
+        "formName":null,
+        "smogonName":"Annihilape",
+        "move":"Rage Fist"
+    },
+    {
+        "pokemonName":"Farigiraf",
+        "formName":null,
+        "smogonName":"Farigiraf",
+        "move":"Twin Beam"
+    },
+    {
+        "pokemonName":"Dudunsparce",
+        "formName":null,
+        "smogonName":"Dudunsparce",
+        "move":"Hyper Drill"
+    },
+    {
+        "pokemonName":"Kingambit",
+        "formName":null,
+        "smogonName":"Kingambit",
+        "move":"Kowtow Cleave"
+    },
+    {
+        "pokemonName":"Iron Treads",
+        "formName":null,
+        "smogonName":"Iron Treads",
+        "move":"Steel Roller"
+    },
+    {
+        "pokemonName":"Baxcalibur",
+        "formName":null,
+        "smogonName":"Baxcalibur",
+        "move":"Glaive Rush"
+    },
+    {
+        "pokemonName":"Gholdengo",
+        "formName":null,
+        "smogonName":"Gholdengo",
+        "move":"Make It Rain"
+    },
+    {
+        "pokemonName":"Wo-Chien",
+        "formName":null,
+        "smogonName":"Wo-Chien",
+        "move":"Ruination"
+    },
+    {
+        "pokemonName":"Chien-Pao",
+        "formName":null,
+        "smogonName":"Chien-Pao",
+        "move":"Ruination"
+    },
+    {
+        "pokemonName":"Ting-Lu",
+        "formName":null,
+        "smogonName":"Ting-Lu",
+        "move":"Ruination"
+    },
+    {
+        "pokemonName":"Chi-Yu",
+        "formName":null,
+        "smogonName":"Chi-Yu",
+        "move":"Ruination"
+    },
+    {
+        "pokemonName":"Koraidon",
+        "formName":null,
+        "smogonName":"Koraidon",
+        "move":"Collision Course"
+    },
+    {
+        "pokemonName":"Miraidon",
+        "formName":null,
+        "smogonName":"Miraidon",
+        "move":"Electro Drift"
+    },
+    {
+        "pokemonName":"Walking Wake",
+        "formName":null,
+        "smogonName":"Walking Wake",
+        "move":"Hydro Steam"
+    },
+    {
+        "pokemonName":"Iron Leaves",
+        "formName":null,
+        "smogonName":"Iron Leaves",
+        "move":"Psyblade"
+    },
+    {
+        "pokemonName":"Dipplin",
+        "formName":null,
+        "smogonName":"Dipplin",
+        "move":"Syrup Bomb"
+    },
+    {
+        "pokemonName":"Sinistcha",
+        "formName":null,
+        "smogonName":"Sinistcha",
+        "move":"Matcha Gotcha"
+    },
+    {
+        "pokemonName":"Ogerpon",
+        "formName":null,
+        "smogonName":"Ogerpon",
+        "move":"Ivy Cudgel",
+        "items": [
+            null,
+            "Wellspring Mask",
+            "Hearthflame Mask",
+            "Cornerstone Mask"
+        ]
+    },
+    {
+        "pokemonName":"Archaludon",
+        "formName":null,
+        "smogonName":"Archaludon",
+        "move":"Electro Shot"
+    },
+    {
+        "pokemonName":"Hydrapple",
+        "formName":null,
+        "smogonName":"Hydrapple",
+        "move":"Syrup Bomb"
+    },
+    {
+        "pokemonName":"Hydrapple",
+        "formName":null,
+        "smogonName":"Hydrapple",
+        "move":"Fickle Beam"
+    },
+    {
+        "pokemonName":"Gouging Fire",
+        "formName":null,
+        "smogonName":"Gouging Fire",
+        "move":"Burning Bulwark"
+    },
+    {
+        "pokemonName":"Raging Bolt",
+        "formName":null,
+        "smogonName":"Raging Bolt",
+        "move":"Thunderclap"
+    },
+    {
+        "pokemonName":"Raging Bolt",
+        "formName":null,
+        "smogonName":"Raging Bolt",
+        "move":"Rising Voltage"
+    },
+    {
+        "pokemonName":"Iron Boulder",
+        "formName":null,
+        "smogonName":"Iron Boulder",
+        "move":"Mighty Cleave"
+    },
+    {
+        "pokemonName":"Iron Crown",
+        "formName":null,
+        "smogonName":"Iron Crown",
+        "move":"Tachyon Cutter"
+    },
+    {
+        "pokemonName":"Terapagos",
+        "formName":null,
+        "smogonName":"Terapagos",
+        "move":"Tera Starstorm"
+    },
+    {
+        "pokemonName":"Pecharunt",
+        "formName":null,
+        "smogonName":"Pecharunt",
+        "move":"Malignant Chain"
+    }
+]

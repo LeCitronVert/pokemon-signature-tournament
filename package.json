@@ -1,0 +1,26 @@
+{
+  "name": "pokemon-signature-tournament",
+  "version": "1.0.0",
+  "description": "Tournament of Pokémon fighting in Showdown's Sim using only their signature moves.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "import": "node import.js",
+    "export": "node export.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeCitronVert/pokemon-signature-tournament.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeCitronVert/pokemon-signature-tournament/issues"
+  },
+  "homepage": "https://github.com/LeCitronVert/pokemon-signature-tournament#readme",
+  "dependencies": {
+    "pokemon-showdown": "^0.11.9",
+    "sqlite3": "^5.1.7"
+  }
+}
