@@ -5,7 +5,6 @@ const {TeamValidator, Dex } = require('@pkmn/sim');
 const config = require('./data/config.json');
 const Pokemon = require('./classes/Pokemon.js');
 
-
 db.all('SELECT * FROM pokemon;', (err, rows) => {
     if (err) {
         console.error(err);

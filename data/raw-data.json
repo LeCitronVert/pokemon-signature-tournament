@@ -174,22 +174,10 @@
         "move":"Kinesis"
     },
     {
-        "pokemonName":"Kadabra",
-        "formName":null,
-        "smogonName":"Kadabra",
-        "move":"*"
-    },
-    {
         "pokemonName":"Alakazam",
         "formName":null,
         "smogonName":"Alakazam",
         "move":"Kinesis"
-    },
-    {
-        "pokemonName":"Alakazam",
-        "formName":null,
-        "smogonName":"Alakazam",
-        "move":"*"
     },
     {
         "pokemonName":"Machop",

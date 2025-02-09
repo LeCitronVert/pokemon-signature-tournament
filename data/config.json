@@ -1,3 +1,4 @@
 {
-    "showdownFormat": "nationaldex"
+    "showdownFormat": "gen9customgame",
+    "numberOfBattles": 3
 }
