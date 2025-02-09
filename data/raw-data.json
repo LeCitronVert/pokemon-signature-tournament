@@ -2364,20 +2364,20 @@
     },
     {
         "pokemonName":"Ogerpon",
-        "formName":"Wellspring Mask",
-        "smogonName":"Ogerpon-Wellspring",
+        "formName":"Hearthflame Mask",
+        "smogonName":"Ogerpon-Hearthflame",
         "move":"Ivy Cudgel",
         "items": [
-            "Wellspring Mask"
+            "Hearthflame Mask"
         ]
     },
     {
         "pokemonName":"Ogerpon",
-        "formName":"Wellspring Mask",
-        "smogonName":"Ogerpon-Wellspring",
+        "formName":"Cornerstone Mask",
+        "smogonName":"Ogerpon-Cornerstone",
         "move":"Ivy Cudgel",
         "items": [
-            "Wellspring Mask"
+            "Cornerstone Mask"
         ]
     },
     {
