@@ -957,7 +957,10 @@
         "pokemonName":"Giratina",
         "formName":"Origin Form",
         "smogonName":"Giratina-Origin",
-        "move":"Shadow Force"
+        "move":"Shadow Force",
+        "items": [
+            "Griseous Core"
+        ]
     },
     {
         "pokemonName":"Cresselia",
@@ -1277,12 +1280,6 @@
         "pokemonName":"Keldeo",
         "formName":null,
         "smogonName":"Keldeo",
-        "move":"Sacred Sword"
-    },
-    {
-        "pokemonName":"Keldeo",
-        "formName":"Resolute Form",
-        "smogonName":"Keldeo-Resolute",
         "move":"Sacred Sword"
     },
     {
@@ -1988,13 +1985,19 @@
         "pokemonName":"Zacian",
         "formName":"Crowned",
         "smogonName":"Zacian-Crowned",
-        "move":"Behemoth Blade"
+        "move":"Behemoth Blade",
+        "items": [
+            "Rusted Sword"
+        ]
     },
     {
         "pokemonName":"Zamazenta",
         "formName":"Crowned",
         "smogonName":"Zamazenta-Crowned",
-        "move":"Behemoth Bash"
+        "move":"Behemoth Bash",
+        "items": [
+            "Rusted Shield"
+        ]
     },
     {
         "pokemonName":"Eternatus",
@@ -2346,14 +2349,35 @@
     },
     {
         "pokemonName":"Ogerpon",
-        "formName":null,
+        "formName":"Teal Mask",
         "smogonName":"Ogerpon",
+        "move":"Ivy Cudgel"
+    },
+    {
+        "pokemonName":"Ogerpon",
+        "formName":"Wellspring Mask",
+        "smogonName":"Ogerpon-Wellspring",
         "move":"Ivy Cudgel",
         "items": [
-            null,
-            "Wellspring Mask",
-            "Hearthflame Mask",
-            "Cornerstone Mask"
+            "Wellspring Mask"
+        ]
+    },
+    {
+        "pokemonName":"Ogerpon",
+        "formName":"Wellspring Mask",
+        "smogonName":"Ogerpon-Wellspring",
+        "move":"Ivy Cudgel",
+        "items": [
+            "Wellspring Mask"
+        ]
+    },
+    {
+        "pokemonName":"Ogerpon",
+        "formName":"Wellspring Mask",
+        "smogonName":"Ogerpon-Wellspring",
+        "move":"Ivy Cudgel",
+        "items": [
+            "Wellspring Mask"
         ]
     },
     {
