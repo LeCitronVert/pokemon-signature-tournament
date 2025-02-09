@@ -18,6 +18,10 @@ db.run(
             }
 
             rawData.forEach((pokemon) => {
+                // todo : For some fucking reason, some specific Pokemon return a blank string as their abilities
+                // i think ogerpon needs to be tagged as the specific form for the ability to be returned
+                // i have zero idea why some paradox pokemon or blood moon ursaluna return blank abilities
+                
                 const pokemonAbilities = Dex.species.get(pokemon.smogonName).abilities;
 
                 for ([index, ability] of Object.entries(pokemonAbilities)) {
