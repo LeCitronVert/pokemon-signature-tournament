@@ -1465,26 +1465,50 @@
     },
     {
         "pokemonName":"Zygarde",
-        "formName":null,
+        "formName":"50% Power",
         "smogonName":"Zygarde",
         "move":"Land's Wrath"
     },
     {
         "pokemonName":"Zygarde",
-        "formName":null,
+        "formName":"50% Power",
         "smogonName":"Zygarde",
         "move":"Thousand Arrows"
     },
     {
         "pokemonName":"Zygarde",
-        "formName":null,
+        "formName":"50% Power",
         "smogonName":"Zygarde",
         "move":"Thousand Waves"
     },
     {
         "pokemonName":"Zygarde",
-        "formName":null,
+        "formName":"50% Power",
         "smogonName":"Zygarde",
+        "move":"Core Enforcer"
+    },
+    {
+        "pokemonName":"Zygarde",
+        "formName":"10% Power",
+        "smogonName":"Zygarde-10%",
+        "move":"Land's Wrath"
+    },
+    {
+        "pokemonName":"Zygarde",
+        "formName":"10% Power",
+        "smogonName":"Zygarde-10%",
+        "move":"Thousand Arrows"
+    },
+    {
+        "pokemonName":"Zygarde",
+        "formName":"10% Power",
+        "smogonName":"Zygarde-10%",
+        "move":"Thousand Waves"
+    },
+    {
+        "pokemonName":"Zygarde",
+        "formName":"10% Power",
+        "smogonName":"Zygarde-10%",
         "move":"Core Enforcer"
     },
     {
