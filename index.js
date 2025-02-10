@@ -41,7 +41,13 @@ function startBattles()
         for (const firstPokemonRow of rows) {
             for (const secondPokemonRow of rows) {
                 if (firstPokemonRow.id === secondPokemonRow.id) {
-                    // i'm too lazy to do proper memory management                
+                    console.log('Skipping mirror match.');
+                    continue;
+                }
+
+                // Check if battle has already been played
+                if (await battleHasAlreadyBeenPlayed(firstPokemonRow.id, secondPokemonRow.id)) {
+                    console.log('Battle has already been played.');
                     continue;
                 }
     
@@ -55,6 +61,19 @@ function startBattles()
         }
     
         console.log("It's fucking done yippee");
+    });
+}
+
+function battleHasAlreadyBeenPlayed(firstPokemonId, secondPokemonId) {
+    return new Promise((resolve, reject) => {
+        const stmt = db.prepare('SELECT COUNT(*) AS count FROM wins WHERE winnerPokemonId = ? AND loserPokemonId = ?;');
+        stmt.get(firstPokemonId, secondPokemonId, (err, row) => {
+            if (err) {
+                reject(err);
+            }
+
+            resolve(row.count > 0);
+        });
     });
 }
 
