@@ -69,8 +69,8 @@ function startBattles()
 
 function battleHasAlreadyBeenPlayed(firstPokemonId, secondPokemonId) {
     return new Promise((resolve, reject) => {
-        const stmt = db.prepare('SELECT COUNT(*) AS count FROM wins WHERE winnerPokemonId = ? AND loserPokemonId = ?;');
-        stmt.get(firstPokemonId, secondPokemonId, (err, row) => {
+        const stmt = db.prepare('SELECT COUNT(*) AS count FROM wins WHERE (winnerPokemonId = ? AND loserPokemonId = ?) OR (winnerPokemonId = ? AND loserPokemonId = ?);');
+        stmt.get(firstPokemonId, secondPokemonId, secondPokemonId, firstPokemonId, (err, row) => {
             if (err) {
                 reject(err);
             }
