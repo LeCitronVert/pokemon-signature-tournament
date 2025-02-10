@@ -52,11 +52,14 @@ function startBattles()
                 }
     
                 // Repeat battle for set number of times in config
+                let battles = [];
                 for (let i = 0; i < numberOfBattles; i++) {
-                    await new Promise((resolve, reject) => {
+                    battles.push(new Promise((resolve, reject) => {
                         setUpBattle(firstPokemonRow, secondPokemonRow, battleSpecs, resolve, reject);
-                    });
+                    }));
                 }
+
+                await Promise.all(battles);
             }
         }
     
