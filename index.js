@@ -39,6 +39,8 @@ function startBattles()
         const numberOfBattles = config.numberOfBattles;
     
         for (const firstPokemonRow of rows) {
+            // todo : Looking back, this is stupid.
+            // I should just query for all pokémons that haven't been played against each other yet
             for (const secondPokemonRow of rows) {
                 if (firstPokemonRow.id === secondPokemonRow.id) {
                     console.log('Skipping mirror match.');
